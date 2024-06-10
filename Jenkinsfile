@@ -25,6 +25,7 @@ pipeline {
                 python3 hello.py
                 python3 hello.py --name=Carlos
                 python3 hello.py --name=Gazabon
+                python3 hello.py --name=Diaz
                 '''
             }
         }
